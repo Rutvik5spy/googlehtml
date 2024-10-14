@@ -1,0 +1,103 @@
+body{
+    background-color:#0ca3e0;
+}
+.raleway{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+} 
+section{
+    height: 35rem;
+    width: 60rem;
+    background-color: white;
+    margin: 4rem auto 4rem auto;
+    display: flex;
+} 
+div{
+    height: 35rem;
+    width: 20rem;
+}
+#div1{
+    border-right: 1px solid rgb(236, 240, 242);
+}
+img{
+    width: 85%;
+    margin: 12.5px 12.5px 10px 24px;
+}
+h4{
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    text-align: center;
+    margin-bottom: 2.4rem;
+}
+#p1{
+    text-transform: uppercase;
+    font-size: smaller;
+    color: #0ca3e0;
+    font-weight: bolder;
+    text-align: center;
+    width: 75%;
+    border-bottom: 2px solid rgb(236, 240, 242);
+    border-top: 2px solid rgb(236, 240, 242) ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#p2{
+    text-transform:uppercase;
+    font-size: smaller;
+    color: #0ca3e0;
+    font-weight: bolder;
+    border-bottom: 2px solid rgb(236, 240, 242);
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+    text-align: center;
+    letter-spacing: -1px;
+    word-spacing: 3px;
+    padding-bottom: 20px;
+}
+#p4{
+    text-transform:uppercase;
+    font-size: smaller;
+    color: #0ca3e0;
+    font-weight: bolder;
+    border-bottom: 2px solid rgb(236, 240, 242);
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+h1{
+    text-transform: uppercase;
+    color:#0ca3e0;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 2rem;   
+}
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 2rem;
+  }
+#p3{
+    width: 45%;
+    border: 1px solid #0ca3e0;
+    color: #0ca3e0;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    margin-left: auto;
+    margin-right: auto;
+}
+a:link{
+    text-decoration: none;
+}
+a{
+    color: #0ca3e0;
+}
